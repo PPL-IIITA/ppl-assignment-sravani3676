@@ -1,0 +1,103 @@
+1 paired with 23447
+4 paired with 23438
+10 paired with 23442
+2 paired with 23436
+3 paired with 23437
+5 paired with 23439
+6 paired with 23440
+7 paired with 23441
+8 paired with 23443
+9 paired with 23444
+11 paired with 23445
+12 paired with 23446
+13 paired with 23448
+14 paired with 23449
+15 paired with 23450
+Details of gifts price and value
+boy id 23447  girl id 1 
+14465 72
+boy id 23436  girl id 2 
+21703 1
+boy id 23437  girl id 3 
+21716 59
+boy id 23438  girl id 4 
+25134 68
+boy id 23439  girl id 5 
+23637 77
+boy id 23440  girl id 6 
+29891 38
+boy id 23441  girl id 7 
+15024 93
+boy id 23443  girl id 8 
+5400 98
+boy id 23444  girl id 9 
+29241 5
+boy id 23442  girl id 10 
+21716 59
+6718 15
+6719 12
+19822 63
+boy id 23445  girl id 11 
+19822 63
+14124 18
+29219 84
+boy id 23446  girl id 12 
+25509 77
+16151 60
+7930 68
+boy id 23448  girl id 13 
+12405 25
+boy id 23449  girl id 14 
+23224 34
+boy id 23450  girl id 15 
+8519 28
+1 23447
+2 23436
+3 23437
+4 23438
+5 23439
+6 23440
+7 23441
+8 23443
+9 23444
+10 23442
+11 23445
+12 23446
+13 23448
+14 23449
+15 23450
+After Breakup
+2 paired with 23438
+3 paired with 23439
+5 paired with 23452
+6 paired with 23442
+7 paired with 23445
+8 paired with 23444
+1 paired with 23436
+4 paired with 23437
+9 paired with 23440
+10 paired with 23441
+11 paired with 23443
+12 paired with 23446
+13 paired with 23447
+14 paired with 23448
+15 paired with 23449
+Details of gifts price and value
+boy id 23436  girl id 1 
+boy id 23438  girl id 2 
+boy id 23439  girl id 3 
+boy id 23437  girl id 4 
+boy id 23452  girl id 5 
+25749 43
+boy id 23442  girl id 6 
+boy id 23445  girl id 7 
+boy id 23444  girl id 8 
+boy id 23440  girl id 9 
+boy id 23441  girl id 10 
+boy id 23443  girl id 11 
+boy id 23446  girl id 12 
+boy id 23447  girl id 13 
+23224 34
+boy id 23448  girl id 14 
+29241 5
+boy id 23449  girl id 15 
